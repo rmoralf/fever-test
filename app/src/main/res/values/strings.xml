@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fever Test</string>
+
+    <string name="order_alphabetical">Alphabetical</string>
+    <string name="order_position">Position</string>
+
+    <string name="item_crew_id">Crew ID: %1$s</string>
+</resources>

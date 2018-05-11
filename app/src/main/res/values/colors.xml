@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <color name="science">#0066ff</color>
+    <color name="engineering">#ff3300</color>
+    <color name="command">#ffff66</color>
+
+    <color name="loading_bg">#4D000000</color>
+</resources>

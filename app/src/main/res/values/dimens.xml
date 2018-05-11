@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="item_list_cell_height">100dp</dimen>
+    <dimen name="item_list_cell_position_height">80dp</dimen>
+    <dimen name="item_list_cell_position_margin">10dp</dimen>
+    <dimen name="item_list_cell_textview_margin">15dp</dimen>
+    <dimen name="item_list_cell_multiplier_size">30sp</dimen>
+</resources>
